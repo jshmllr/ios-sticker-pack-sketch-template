@@ -1,16 +1,18 @@
 # Sticker Pack Template for Sketch
 
-<b>Preview</b>
+<p> <h2>Preview</h2> </p>
+![preview](https://github.com/jshmllr/iOS10StickerPackSketch/blob/master/preview.png) 
 
 
-<b>Walk Through</b>
-Medium.com/
+<h2>Walk Through</h2>
+<br> 
+<p>Medium.com</p>
 
 
-<b>Info</b>
+<h2>Info</h2>
 
-Licensed by: 
-Attribution-ShareAlike 4.0 International
-https://creativecommons.org/licenses/by-sa/4.0/
+<p>Licensed by: <br>
+Attribution-ShareAlike 4.0 International <br>
+https://creativecommons.org/licenses/by-sa/4.0/</p>
 
 Feel free to send me feedback on Twitter: @_jshmllr
