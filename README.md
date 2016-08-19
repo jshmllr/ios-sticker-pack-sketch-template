@@ -1,7 +1,7 @@
 # Sticker Pack Template for Sketch
 
 
-Info
+<b>Info</b>
 
 Licensed by: 
 Attribution-ShareAlike 4.0 International
