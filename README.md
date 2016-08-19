@@ -1,5 +1,11 @@
 # Sticker Pack Template for Sketch
 
+<b>Preview</b>
+
+
+<b>Walk Through</b>
+Medium.com/
+
 
 <b>Info</b>
 
