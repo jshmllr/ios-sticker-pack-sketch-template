@@ -1,13 +1,13 @@
 # Sticker Pack Template for Sketch
 
-<p> <h2>Preview</h2> </p>
-![preview](https://github.com/jshmllr/iOS10StickerPackSketch/blob/master/preview.png) 
+<h2>Preview</h2>
 
+![Sticker Pack](https://github.com/jshmllr/iOS10StickerPackSketch/blob/master/preview.png)
 
 <h2>Walk Through</h2>
 <br> 
-<p>Medium.com</p>
 
+[Medium Article](https://medium.com/@jshmllr/creating-stickers-ios-10-b844dc890464)
 
 <h2>Info</h2>
 
